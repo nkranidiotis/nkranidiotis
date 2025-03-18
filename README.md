@@ -32,7 +32,7 @@
 <p align="center">
   <table>
     <tr>
-      <td>
+      <<td style="padding-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" height="200"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" height="200"/>
       </td>
