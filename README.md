@@ -33,8 +33,8 @@
   <table>
     <tr>
       <td style="padding-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" width="200" height="200"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" width="200" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" height="200"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" height="200" />
       </td>
       <td style="padding-left: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
