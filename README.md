@@ -1,15 +1,48 @@
-<h1> Nikolaos Kranidiotis </h1>
-<p>Cyber Crime Investigator & Penetration Tester 🌐 98 Assigned Cases | Founder of R.I.A.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nikolaos-kranidiotis/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&locale=en" alt="nkranidiotis" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&locale=en&layout=compact" alt="nkranidiotis" /></p>
+# 🔥 Nikolaos Kranidiotis 🔥  
+### 🕵️‍♂️ Cyber Crime Investigator & Penetration Tester   
+🌐 **98 Assigned Cases** | Founder of **R.I.A.**  
+![Hacker GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp2aXp1emZoZWtyeGwycDAwMDFtaXR2Z3FjM2djN2RvaXUxandpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif)  
+
+---
+
+## 🚀 Languages and Tools I Use  
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42" height="42"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
+</p>
+
+---
+
+## ⚡ Hacker Stats  
+📊 **GitHub Profile Overview**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" alt="nkranidiotis" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&locale=en&layout=compact&theme=radical" alt="nkranidiotis" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🕵 Where to Find Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikolaos-kranidiotis/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🏴‍☠️ Terminal  
+```bash
+echo "Welcome to my GitHub! 🚀"
+echo "Cybersecurity | Forensics | Exploit Dev"
+echo "Projects: Black Ice, Red Blade, and more..."
+echo "Tracking cyber threats worldwide..."
