@@ -29,7 +29,6 @@
 
 ---
 ## 📊 GitHub Stats & Activity  
-
 <p align="center">
   <table>
     <tr>
@@ -38,12 +37,13 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" height="150"/>
       </td>
       <td style="padding-left: 20px;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw2OHBoYTJmZzg3MmJxNDdwOHBqcnVtZmR1OWY4YnZveXN5ZGNpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/101IgDtwWFQKti/giphy.gif" width="200"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nkranidiotis&theme=radical&hide_title=true" height="150"/>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
