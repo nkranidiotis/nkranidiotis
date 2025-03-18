@@ -45,9 +45,7 @@
 
 
 
-
 ---
-
 ## 🕵 Where to Find Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nikolaos-kranidiotis/" target="_blank">
