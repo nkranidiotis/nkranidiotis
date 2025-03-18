@@ -6,7 +6,7 @@
       <h3>🕵️‍♂️ Cyber Crime Investigator & Penetration Tester</h3>
       <h4>🌐 98 Assigned Cases | Founder of <b>R.I.A.</b></h4>
     </td>
-    <td style="padding-left: 20px;">
+    <td style="padding-left: 50px;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp2aXp1emZoZWtyeGwycDAwMDFtaXR2Z3FjM2djN2RvaXUxandpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="250"/>
     </td>
   </tr>
