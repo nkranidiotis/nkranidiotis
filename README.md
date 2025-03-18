@@ -52,8 +52,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
 
+---
 ## 🏴‍☠️ Terminal  
 ```bash
 echo "Welcome to my GitHub! 🚀"
