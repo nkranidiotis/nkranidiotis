@@ -28,13 +28,21 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" height="150"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" height="150"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" height="150"/>
+      </td>
+      <td style="padding-left: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 ---
