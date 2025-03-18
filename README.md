@@ -38,7 +38,7 @@
       </td>
       <td style="padding-left: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZwaGNqeW93MnpnMHllZTlvNGo0N2h0YzZ1bmRkYm03YTduZDczdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K25PVRA032Ues/giphy.gif" width="400"/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZwaGNqeW93MnpnMHllZTlvNGo0N2h0YzZ1bmRkYm03YTduZDczdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K25PVRA032Ues/giphy.gif" width="400" height="150"/>
       </td>
     </tr>
   </table>
