@@ -29,6 +29,7 @@
 
 ---
 ## 📊 GitHub Stats & Activity  
+
 <p align="center">
   <table>
     <tr>
@@ -38,6 +39,7 @@
       </td>
       <td style="padding-left: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nkranidiotis&theme=radical&hide_title=true" height="150"/>
       </td>
     </tr>
   </table>
