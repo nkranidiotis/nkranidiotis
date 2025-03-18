@@ -32,11 +32,11 @@
 <p align="center">
   <table>
     <tr>
-      <<td style="padding-right: 20px;">
+      <td style="padding-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=nkranidiotis&show_icons=true&theme=radical" height="200"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkranidiotis&theme=radical" height="200"/>
       </td>
-      <td style="padding-left: 0px;">
+      <td style="padding-left: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkranidiotis&show_icons=true&layout=compact&theme=radical" height="150"/>
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZwaGNqeW93MnpnMHllZTlvNGo0N2h0YzZ1bmRkYm03YTduZDczdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K25PVRA032Ues/giphy.gif" width="400" height="150"/>
       </td>
