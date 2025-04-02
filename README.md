@@ -4,7 +4,7 @@
   <tr>
     <td>
       <h3>🕵️‍♂️ Cyber Crime Investigator & Penetration Tester</h3>
-      <h4>🌐 98 Assigned Cases | Founder of <b>R.I.A.</b></h4>
+      <h4>🌐 124 Assigned Cases | Founder of <b>R.I.A.</b></h4>
       <h5> Nikolaos Kranidiotis, founder and CEO of RIA, is an innovator in cyber investigation. Beginning his career at 15 with the police cyber crime division, he has played a key role in countering cybercrime, dismantling illegal pornography networks, and Dark Web criminal activities.</h5>
     </td>
     <td style="padding-left: 20px;">
